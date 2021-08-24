@@ -1,4 +1,4 @@
-package com.brigdelabz.sqrt;
+package com.brigdelabz.decimaltobinary;
 
 public class ToBinary {
 	public static void main(String[] args) {
